@@ -12,8 +12,8 @@
 
 <h2>🤳Connect with me:</h2>
 
-<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />: [LinkedIn]([https://www.linkedin.com/in/cole-strobbe-8aabbb293/](url))
+<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> : https://www.linkedin.com/in/cole-strobbe-8aabbb293
 
-<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> : [Insta]([https://www.instagram.com/colbys999/](url))
+<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> : https://www.instagram.com/colbys999
 
-
+      
